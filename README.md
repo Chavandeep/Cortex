@@ -6,7 +6,7 @@ Cortex is a comprehensive desktop virtual assistant for Windows, designed to aut
 
 It combines speech recognition, text-to-speech, web automation, and a PyQt5-powered GUI to create a seamless personal assistant experience.
 <br>
-✨ Features Overview<br>
+<h3>✨ Features Overview</h3><br>
 <h3>🎙️ Voice Interaction</h3>
 Speech recognition and text-to-speech using speech_recognition and pyttsx3
 
